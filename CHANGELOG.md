@@ -2,6 +2,49 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="5.6.0"></a>
+# [5.6.0](https://github.com/dmfay/massive-js/compare/v5.5.3...v5.6.0) (2018-11-27)
+
+
+### Features
+
+* nested conjunctions in criteria objects with 'and' key ([#651](https://github.com/dmfay/massive-js/issues/651)) ([7aebccc](https://github.com/dmfay/massive-js/commit/7aebccc))
+
+
+
+<a name="5.5.3"></a>
+## [5.5.3](https://github.com/dmfay/massive-js/compare/v5.5.1...v5.5.3) (2018-11-10)
+
+
+### Bug Fixes
+
+* pass undefined args to query() for scripts without parameters (fixes [#649](https://github.com/dmfay/massive-js/issues/649)) ([1a1c0a6](https://github.com/dmfay/massive-js/commit/1a1c0a6))
+* **package:** update pg-promise to version 8.5.2 ([cc7afc3](https://github.com/dmfay/massive-js/commit/cc7afc3))
+
+
+
+<a name="5.5.2"></a>
+## [5.5.2](https://github.com/dmfay/massive-js/compare/v5.5.1...v5.5.2) (2018-11-10)
+
+
+### Bug Fixes
+
+* pass undefined args to query() for scripts without parameters (fixes [#649](https://github.com/dmfay/massive-js/issues/649)) ([c5f1894](https://github.com/dmfay/massive-js/commit/c5f1894))
+
+
+
+<a name="5.5.1"></a>
+## [5.5.1](https://github.com/dmfay/massive-js/compare/v5.5.0...v5.5.1) (2018-10-17)
+
+
+### Bug Fixes
+
+* **package:** update commander to version 2.19.0 ([68d72e3](https://github.com/dmfay/massive-js/commit/68d72e3))
+* correct param defaults for Database.query ([49e6af3](https://github.com/dmfay/massive-js/commit/49e6af3))
+* **package:** update pg-promise and pg-query-stream to the latest version 🚀 ([#641](https://github.com/dmfay/massive-js/issues/641)) ([8de72f8](https://github.com/dmfay/massive-js/commit/8de72f8))
+
+
+
 <a name="5.5.0"></a>
 # [5.5.0](https://github.com/dmfay/massive-js/compare/v5.4.0...v5.5.0) (2018-09-30)
 
